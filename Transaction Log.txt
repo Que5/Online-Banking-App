@@ -1,0 +1,12 @@
+
+A deposit of: +R600 has been made
+	Date: 23/06/02 11:59:29
+	Updated balance: R600.00
+
+A deposit of: +R600 has been made
+	Date: 23/06/02 11:59:35
+	Updated balance: R1200.00
+A Payment of: -R500 has been made on 
+\To Account: 2345678
+	Date: 23/06/02 11:59:50
+	Updated balance: R700.00
